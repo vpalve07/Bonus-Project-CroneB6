@@ -8,8 +8,10 @@ The scheduler must schedule the event to trigger a function at the date time men
 The trigger function (API) must accept the text as input, sleep for the duration of text length and return text backwards.
 Example
 Let say list of events is
+
 [
-            	{
+
+{
                             	“text”: “textOne”,
                             	“dateTime”: “2020-07-10 15:00:00.000”
 },
